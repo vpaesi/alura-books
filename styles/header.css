@@ -130,8 +130,17 @@
         padding: 0 2em;
     }
     
+    .container__imagem{
+        padding: 0.3em;
+    }
+
     .opcoes{
         margin-right: auto;
+        padding: inherit;
+    }
+
+    .opcoes__item{
+        padding: 1em 2.2em 1em;
     }
 
     .container__texto{
